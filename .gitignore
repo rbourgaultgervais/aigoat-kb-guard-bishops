@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+*.gguf
+*.bin
+*.safetensors
+chroma/
+*.sqlite
+*.db
+.DS_Store
